@@ -1,0 +1,13 @@
+.venv_tr/
+wandb/
+
+ __pycache__/
+ *.pyc
+**/__pycache__/
+
+logs/*
+!logs/.gitkeep
+trash_wand_sweep_configs/
+evaluation_results/*
+!evaluation_results/.gitkeep
+.vscode/
